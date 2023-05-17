@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" />
+<meta name="author" content="Peterson">
+<title>Alien website v002</title>
+</head>
+<body>
+<header>
+
+                <h1> Technological Treasure hunt <h1/>
+
+<div>
+</head>
+<main>
+<section/>
+
+ <h2> A treasure hunt that is out of this world <h2>
+ <sub>Welcome to our Stem (support the extraterrestrial movement) project<sub>
+
+
+<div>
+
+<img src="C:\Users\seany\OneDrive - Technological University Dublin\DT021 yr3\STEM\Map\Alien map outline.png" = "alien map outline"
+
+<section>
+
+<img src="C:\Users\seany\OneDrive - Technological University Dublin\DT021 yr3\STEM\Map\Alien map attempt 1.png"="Alien map attempt 1"  
+
+
+
+
+
+<section>
+<p>
+The grounds you stand on were the site of a Mental hospital which is now the TU Dublin campus is a cover-up in fact, this facility is the Irish version of Area 51 called ATU 25- Alien testing unit 25(teachers are guards and students are aliens). <p/>
+
+<p>
+The “treasure hunt” is actually an undercover operation to help the aliens leave the facility. If you choose to accept, you're objective is to assist the aliens by completing objectives that will help them fix their spaceships.<p/>
+
+<p>
+ The more aliens you help within the time limit, the better your score will be at the end. Each species of alien has a value given to them. The group with the highest score is the winner. <p/>
+
+
+<section>
+<img src="https://img.freepik.com/free-vector/cute-alien-flying-with-spaceship-ufo-cartoon-science-technology-icon-concept-isolated-flat-cartoon-style_138676-2203.jpg?w=740&t=st=1681906574~exp=1681907174~hmac=a542c79a49dd230328c49cb0b70dd93b74fa202b337d25d4f795cfcb76b52fd9" alt="My image alternation"  
+
+</head>
+<main>
+<section>
+<sub> What we actually look like <sub>         
+
+
+
+<section>
+
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3734ea1f-f4c6-4cd7-b903-70f728805c2f/deo50z0-0d06998d-9adb-4827-b6b2-f0b0d3d17bca.jpg/v1/fill/w_1078,h_741,q_70,strp/the_tomorrow_war___alien_design_by_kenbarthelmey_deo50z0-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODgwIiwicGF0aCI6IlwvZlwvMzczNGVhMWYtZjRjNi00Y2Q3LWI5MDMtNzBmNzI4ODA1YzJmXC9kZW81MHowLTBkMDY5OThkLTlhZGItNDgyNy1iNmIyLWYwYjBkM2QxN2JjYS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.cA0Lfm2QUxyfJEXvvBJt2F0p0oCdSFGUqF4OT4g5lTM" alt="My image alternation"
+
+<main>
+<section>
+
+<b> We dont look like this <b>
+
+
+<section>
+ <h2>
+<a href="https://www.tudublin.ie/">TU Dublin (join the movement)</a>
+<h2>
+
+<section>
+
+    
+
+</head>
+<title>STEM Community Project</title>
+
+
+<body>
+   
+<style>
+  
+    
+    .subscribe-button {
+     
+      background-color: rgb(200, 0, 0);
+      color: white;
+      border: none;
+      height: 36px;
+      width: 105px;
+      margin-right: 10px;
+      border-radius: 2px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+   
+      
+
+    }
+  
+    .subscribe-button:hover {
+      opacity: 0.8;
+    }
+  
+    .subscribe-button:active {
+      opacity: 0.5;
+    }
+  
+    .join-button {
+      
+      background-color: purple;
+      border-color: rgb(41, 118, 211);
+      border-style: solid;
+      border-width: 1px;
+      color: rgb(41, 118, 211);
+      height: 36px;
+      width: 62px;
+      border-radius: 2px;
+      cursor: pointer;
+      
+  
+      transition: background-color 0.15s,
+        color 0.15s;
+    }
+  
+    .join-button:hover {
+      background-color: rgb(41, 118, 211);
+      color: white;
+      position: relative;
+    }
+  
+    .join-button:active {
+      opacity: 0.7;
+    }
+  
+    .tweet-button {
+      
+      background-color: rgb(2, 158, 255);
+      color: white;
+      border: none;
+      height: 36px;
+      width: 74px;
+      border-radius: 8px;
+      border-radius: 18px;
+      font-weight: bold;
+      margin-left: 10px;
+      font-size: 15px;
+      cursor: pointer;
+      transition: box-shadow 0.15s;
+     
+
+    }
+  
+    .tweet-button:hover {
+      box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+
+    }
+    .social-buttons{
+
+        display: flex;
+        align-items: center;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    }
+
+.h1{
+
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    font-family: 'Roboto', sans-serif;
+}
+.contents {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+.h3 {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    font-family: 'Roboto', sans-serif;
+}
+.p {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    font-family: 'Roboto', sans-serif;
+}
+
+  </style>
+  
+  <img src ="https://www.tudublin.ie/media/website/explore/our-campuses/city-centre-campuses/grangegorman/images/Greenway-Hub-March-2021.jpg" alt="tudublin" style="width:100%",  height="400px"> 
+
+
+  <div class="h1">
+    <h1>Welcome to the TUDUBLIN STEM project</h1>
+    </div>
+
+      <div class="social-buttons">
+        <button class="subscribe-button">
+            SUBSCRIBE
+          </button>
+          
+          <button class="join-button">
+            JOIN
+          </button>
+          
+          <button class="tweet-button">
+            Tweet
+          </button>
+        </div>
+
+        <div class="contents">
+        <h2> Grangegorman Campus </h2>
+     </div>
+        <div class="h3">
+        <h3> Alien Hunt Game </h3> 
+    </div>
+        <div class="p">
+        <p> June 2023 </p>
+    </div>
+   
+
+       
+      
+       
+      
+
+<main>
+<section>
+       
+
+</main>
+  </body>
+</html>

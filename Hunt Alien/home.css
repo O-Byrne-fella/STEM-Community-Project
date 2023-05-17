@@ -1,0 +1,157 @@
+  
+  body  {
+    background-image: url("Home page Background.png");
+    background-color;
+    opacity: 1;
+    overflow: hidden;
+  }
+
+  .btn {
+    display: inline-block;
+    margin-bottom: 0;
+    color:rgb(255, 255, 255);
+    margin-left: auto;
+    margin-top: 10px;
+    font-weight: 400;
+    text-align: center;
+    width: 200px;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    background-color: green;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    font-size: 18px;
+    /* line-height: 1.42857143; */
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.btn1 {
+  background-color: green;
+  width: 200px;
+  margin-top: 10px;
+
+}
+
+
+
+.container1{
+
+  margin-top: 150px;
+  max-width: 400px;
+  max-height: 500px;
+}
+
+.panel-default{
+
+  background-color: #a0d29e;
+  border-radius: 10px;
+}
+
+
+
+.container{
+
+  margin-top: 100px;
+  width: 350px;
+  height: 800px;
+}
+  
+  h3 {
+    /* Center horizontally*/
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+  }
+
+ /* Responsive columns */
+
+
+  @media screen and (max-width: 768px) {
+    .btn {
+      flex-basis: 50%;
+    }
+  }
+  /* Responsive columns */
+  @media screen and (max-width: 600px) {
+    .btn{
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+  @media screen and (max-width: 1025pxpx) {
+    .btn  {
+      flex-basis: 50%;
+      width: 100%;
+      display: block;
+      flex-basis: 50%;
+      margin-bottom: 20px;
+    }
+  }
+  @media screen and (max-width: 480pxpx) {
+    .btn  {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+
+.p1{
+font-size: 14px;
+padding:20px;
+
+
+}
+
+input[type="text"] {
+    display: block;
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+}
+
+    
+
+button {
+    
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px !important;
+    width: 100px;
+    height: 50px;
+    border: none;
+    background-color: #007BFF;
+    color: #ffffff;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.button2 {
+    flex: auto;
+    display: inline-block;
+    margin-top: 10px !important;
+    padding: 10px 20px;
+    font-size: 16px;
+    width: 100px;
+    height: 50px;
+    border: none;
+    background-color: #007BFF;
+    color: #ffffff;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+button:hover {
+    background-color: #0056b3;
+}  
